@@ -1,8 +1,8 @@
 import streamlit as st
 
-display_text = "Hi new Dashboard"
+display_text = "new Dashboard"
 
-st.write(f'{display_text}')
+st.write(f'Hi {display_text}')
 
 name_list = ['SBI', 'KOTAK', 'HDFC']
 
